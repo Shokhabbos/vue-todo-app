@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 3,
+      "isCompleted": true,
+      "title": "Telefon olish",
+      "details": "pro maxm1"
+    },
+    {
+      "title": "Go somewhere",
+      "details": "May be Tashkent City",
+      "isCompleted": false,
+      "id": 4
+    }
+  ]
+}
