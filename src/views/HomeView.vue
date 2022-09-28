@@ -66,6 +66,9 @@ export default {
 </script>
 
 <style scoped>
+.home {
+  padding: 0 15px;
+}
 .source-code {
   color: #bbb;
   text-decoration: none;
@@ -74,6 +77,5 @@ export default {
 }
 .source-code:hover {
   color: rgb(36, 35, 35);
-
 }
 </style>

@@ -11,6 +11,12 @@
       "details": "May be Tashkent City",
       "isCompleted": false,
       "id": 4
+    },
+    {
+      "title": "Noutbuk sotib olish",
+      "details": "Mack book Pro",
+      "isCompleted": false,
+      "id": 5
     }
   ]
 }
